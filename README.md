@@ -2,8 +2,6 @@
 
 A bare-metal operating system for RISC-V, running on QEMU's `virt` machine.
 
-Built on top of `07-preemptive2` (preemptive multitasking) with a custom fine-grained heap allocator (boundary tags + explicit free list) integrated from `memanagement`.
-
 ---
 
 ## Features
